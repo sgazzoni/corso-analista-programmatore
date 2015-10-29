@@ -1,0 +1,81 @@
+	<!DOCTYPE html>
+	<html lang="it">
+	<head>
+		<title>Stefano Gazzoni</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+		<!--[if lt IE 9]>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+	<body>
+		<header role="banner">
+			<h1>Stefano Gazzoni </h1>
+			<nav role="navigation">
+				<ul>
+					<li><a href="">Home</a></li>
+					<li><a href="#about">About</a></li>
+					<li><a href="#links">Links</a></li>
+				</ul>
+			</nav>
+		</header>
+
+		<article id="about">
+			<h2>Stefano Gazzoni</h2>
+			<p>Ciao! Sono stefano corsista del corso "Analista Programmatore Mobile" 2015! Questo è la mia prima prova di scrittura di una pagina html. Speriamo bene.
+			<br>Il codice sorgente viene licenziato con Licenza Apache 2.0. </p>
+		</article>
+		
+		<article id ="about ">
+		<p>I miei hobby preferiti sono:</p>
+		<nav role ="navigation ">
+		<ol type=”1″>
+		<li><a href="">Calcio</a></li>
+		<li><a href="">Corsa</a></li>
+		<li><a href="">Nuoto</a></li
+		</ol>
+		</article>	
+		
+		
+		
+		<article id ="about">
+		<p>Un'altra mia passione, sono le carpe koi. Infatti possiedo un laghetto di ca. 7.000 litri con 14 carpe e uno storione, molto impegnativo, ma ne vale la pena. </p>
+		</article>	
+
+         </p> <table width="200" height="100" border="2"> 
+		 <tr>
+		   <td>carpe</td>
+		   <td>storioni</td>
+		   </tr>
+		   
+		   <tr>
+		   <td>14</td>
+		   <td>1</td>
+		   </tr>
+		   
+		   </table>
+
+
+		
+		
+		<img src="http://www.koi-italia.com/img/logo_koi_italia.png" alt="testo" />
+		
+   
+	   
+				
+		
+		<aside role="complementary" id="links">
+			<h2>Link utili</h2>
+			<ul>
+				<li><a href="https://github.com/sgazzoni/corso-analista-programmatore">Il materiale del corso</a></li>
+				<li><a href="http://www.koi-garden.com/it/">Il mio sito preferito</a></li>
+						
+				
+			</ul>
+		</aside>
+		
+		<footer role="contentinfo">
+			<p>&copy; 2015 Stefano Gazzoni</p>
+		</footer>
+	</body>
+	</html>
