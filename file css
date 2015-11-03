@@ -1,0 +1,60 @@
+*, *:before, *:after {
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   box-sizing: border-box;
+}
+
+h1 {
+   font-size: 4em;
+}
+
+
+ h2{
+text-align:center;
+}
+
+
+
+h2 {
+   font-size: 3em;
+}
+h1, h2 {
+   font-weight: arial;
+   margin: 5px 0;
+}
+p {
+   font-size: 1em;
+   margin: 5px 0;
+}
+ul {
+   padding-left: 10px;
+   margin: 10px 0;
+   list-styletype:disc;
+}
+li {
+   margin-left: 10px;
+   padding-left: 10px;
+}
+
+header, article, aside, footer {
+   border: 1px solid #111;
+}
+
+header, article, aside, footer {
+   border: 1px solid #111;
+   padding: 10px 1em;
+   margin: 0 5% 10px;
+  background-color: white; 
+}
+
+header {
+   margin-top: 10px;
+}
+
+
+
+body { background-color: yellow; }
+
+footer { background-color: grey; }
+
+
