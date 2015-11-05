@@ -1,4 +1,4 @@
-	<!DOCTYPE html>
+		<!DOCTYPE html>
 	<html lang="it">
 	<head>
 		<title>Stefano Gazzoni</title>
@@ -15,9 +15,9 @@
 			<h1>Stefano Gazzoni </h1>
 			<nav role="navigation">
 				<ul>											
-					<li class="D_inline"><a href="">Home</a></li>
-					<li class="D_inline"><a href="#about">About</a></li>
-					<li class="D_inline"><a href="#links">Links</a></li>							
+					<li><a href="">Home</a></li>
+					<li><a href="#about">About</a></li>
+					<li><a href="#links">Links</a></li>							
 				</ul>
 			</nav>
 		</header>
