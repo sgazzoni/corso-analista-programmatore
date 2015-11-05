@@ -53,12 +53,18 @@ header, article, aside, footer {
 
 header {
    margin-top: 10px;
-}
+       }
 
+<!-- metodo migliore per gestire l'ordine inline, non si cambia il file html -->  
+header ul li{
+display:inline;
+            }
+	   
+	   	   
 img {
 	margin-left: 60px;
 	}
-	
+<!-- classname per display inline, meglio non farlo se non in casi particolari xchè occorre modificare il file html html -->	
 .D_inline {
 	display: inline;
 	      }	
