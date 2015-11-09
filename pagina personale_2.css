@@ -3,10 +3,9 @@
    margin: auto;
 }
 
-<!-- metodo migliore per gestire l'ordine inline, non si cambia il file html -->  
-dl dt{
-display: inline;
-      }
+nav dt {
+	   display: block;
+   }
 											
 
 body {
@@ -136,8 +135,9 @@ footer { background-color: grey; }
    footer {
       clear: both;
    }
-}
    nav dt {
 	   display: inline;
    }
+}
+   
 
