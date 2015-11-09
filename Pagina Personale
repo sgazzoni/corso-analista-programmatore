@@ -1,11 +1,11 @@
-		<!DOCTYPE html>
+	<!DOCTYPE html>
 	<html lang="it">
 	<head>
 		<title>Stefano Gazzoni</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width,initial-scale=1">
 		<!-- link al foglio .css che gestisce le modifiche allo stile del foglio -->
-		 <link rel="stylesheet" href="style.css">		
+		 <link rel="stylesheet" href="stefano_pagina_personale_2.css">		
 		<!--[if lt IE 9]>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
 		<![endif]-->
@@ -13,48 +13,59 @@
 	<body>
 		<header role="banner">
 			<h1>Stefano Gazzoni </h1>
-			<nav role="navigation">
-				<ul>											
-					<li><a href="">Home</a></li>
-					<li><a href="#about">About</a></li>
-					<li><a href="#links">Links</a></li>							
-				</ul>
+			<nav role="navigation">		
+			<dl>
+               <dt><a href="">Home</a></dt>
+			   <dt><a href="#Storie">Storie</a></dt>
+			   <dt><a href="#about">About</a></dt>
+			   <dt><a href="#links">Links</a></dt>
+            </dl>					
 			</nav>
 		</header>
 
-		<article id="about">
+		<article id="Storie">
 			<h2>Stefano Gazzoni</h2>
-			<p>Ciao! Sono stefano corsista del corso "Analista Programmatore Mobile" 2015! Questo è la mia prima prova di scrittura di una pagina html. Speriamo bene.
-			<br>Il codice sorgente viene licenziato con Licenza Apache 2.0. </p>
+	        <p><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTMaDEYAEx7iFOtYiPpJ5LbJkI7SodgFd-I-8aYBRk-AKE_8Jivw" alt="Samuel eto'o"</p>  
+			<p>Ciao! Sono Stefano  e questo è il mio amico ETO'O!<br>
+			                                                    <br>
+			Il 27 luglio 2009 si trasferisce all'Inter nell'ambito della trattativa che porta l'attaccante svedese Zlatan Ibrahimović al Barcellona.<BR>
+			Eto'o arriva a Milano insieme ad un conguaglio economico e firma un contratto da 10,5 milioni di euro l'anno, fino al 2014, <BR>
+			che lo rende il calciatore più pagato di tutta la Serie A per il 2009-2010.<BR>
+			L'8 agosto seguente, a Pechino, in occasione della Supercoppa italiana persa contro la Lazio, fa il suo debutto ufficiale con l'Inter <BR>
+			segnando subito il primo gol in maglia nerazzurra; il primo gol in campionato arriva invece su rigore alla prima giornata nel <BR>
+			pareggio interno 1-1 con il Bari.<BR>
+            In dicembre, dopo essersi piazzato al quinto posto, dietro a Messi, Cristiano Ronaldo, Xavi e Andrés Iniesta, <BR>
+			nella classifica per il Pallone d'oro 2009, realizza il primo gol in Champions League con l'Inter, nella vittoria per 2-0 sul Rubin Kazan'.<BR>
+			In Champions League è ancora decisivo il 16 marzo 2010, quando realizza il gol-vittoria (0-1 finale) nella gara di ritorno degli ottavi <BR>
+			contro il Chelsea giocata a Stamford Bridge. Va in rete per la prima volta anche in Coppa Italia, durante la semifinale di ritorno <BR>
+			contro la Fiorentina vinta per 0-1.<BR>
+            Durante tutta la stagione si sacrifica molto in fase difensiva: nella semifinale di ritorno di Champions League contro il Barcellona,<BR>
+			con la squadra in inferiorità numerica per più di un'ora, gioca addirittura da terzino sinistro.<BR>
+			Il 5 maggio 2010 conquista il suo primo titolo con la maglia nerazzurra: la Coppa Italia. <BR>
+			Undici giorni dopo, il 16 maggio, si aggiudica lo scudetto ed il 22 maggio vince anche la Champions League,<BR>
+			diventando così il primo calciatore a conquistare per due anni consecutivi campionato nazionale, coppa nazionale e Champions League.</P>
 		</article>
 		
-		<article id ="about ">
+		<article id ="about">
 		<p>I miei hobby preferiti sono:</p>
 		<nav role ="navigation ">
 		<ol type=”1″>
 		<li><a href="">Calcio</a></li>
 		<li><a href="">Corsa</a></li>
 		<li><a href="">Nuoto</a></li
-		</ol>
+		</ol>	
 		</article>	
-		
-		
-		
-		<article id ="about">
-		<p>Un'altra mia passione, sono le carpe koi. Infatti possiedo un laghetto di ca. 7.000 litri con 14 carpe e uno storione, molto impegnativo, ma ne vale la pena. </p>
-		</article>				
-		
-		<img src="http://www.koi-italia.com/img/logo_koi_italia.png" alt="testo" />
-		
 				
+		<article  id ="about">
+		<p>Un'altra mia passione, sono le carpe koi. Infatti possiedo un laghetto di ca. 7.000 litri con 14 carpe e uno storione, molto impegnativo, ma ne vale la pena. </p>
+		<h3><img src="http://www.koi-italia.com/img/logo_koi_italia.png" alt="Logo_Koi_Italia" /></h3>
+		</article ection>					
 		
 		<aside role="complementary" id="links">
 			<h2>Link utili</h2>
 			<ul>
 				<li><a href="https://github.com/sgazzoni/corso-analista-programmatore">Il materiale del corso</a></li>
-				<li><a href="http://www.koi-garden.com/it/">Il mio sito preferito</a></li>
-						
-				
+				<li><a href="http://www.koi-garden.com/it/">Il mio sito preferito</a></li>					
 			</ul>
 		</aside>
 		
